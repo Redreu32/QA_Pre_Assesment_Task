@@ -1,8 +1,0 @@
-Encapsulation: Encapsulation is a way of wrapping together variables and methods in such a way that the variables within a class will be hidden from other classes. These hidden variables can therefor only be accessed by using methods to get and set the variables.
-
-Inheritance: A class can acquire the properties, both its variables and methods, of another class. The Subclass is the class that acquires the inherited property, and the class whose proprieties are inherited Is called the superclass. This can be achieved by using the Extends Keyword in the format Subclass extends superclass.
-
-Polymorphism: This defines the ability for an object to take on multiple forms. One example of polymorphism is when a reference to a parent class is used to refer to a child class. the reference used in the child class is the one that will be seen by the compiler at run time, unless invoked using the super keyword.
-
-Abstraction: abstraction is the ability to hide implementation details from the user, only the functionality will be provided to the user. An abstract class cannot be instantiated there for it can only be used if it is inherited from another class. any abstract methods (undefined methods) used within the class must be overwritten by the child class.
-
